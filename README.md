@@ -1,5 +1,6 @@
 <p align="center">
-<img src="gojo.jpg" alt="nz" width="350"/>
+<img src=![image](https://user-images.githubusercontent.com/116091655/200756740-f72db261-45ca-404a-a309-485c9942e509.png)
+"" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
